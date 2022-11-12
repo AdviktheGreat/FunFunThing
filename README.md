@@ -1,3 +1,2 @@
 # FunFunThing
-## By Advik
-#Mason is weird
+### By Advik
